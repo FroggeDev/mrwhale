@@ -12,7 +12,8 @@
                 "driving",
                 "racing",
                 "stealth",
-                "survival horror"
+                "survival horror",
+                "walking simulator"
             ],
             "actions": [
                 "shoot",
@@ -58,7 +59,8 @@
                 "eat",
                 "carry",
                 "insert an idea here",
-                "ride"
+                "ride",
+                "unmask people pretending to be monsters"
             ],
             "items": [
                 "space monkeys",
@@ -216,7 +218,8 @@
                 "to find the key to long life",
                 "to understand the meaning of life",
                 "to save your dying family",
-                "to become a hero"
+                "to become a hero",
+                "for your 87 year old mother"
             ]
         },
         {}
